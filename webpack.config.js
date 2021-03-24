@@ -58,6 +58,7 @@ module.exports = env => {
         compileSnapshot // --env.compileSnapshot
     } = env;
 
+    
     const useLibs = compileSnapshot;
     const isAnySourceMapEnabled = !!sourceMap || !!hiddenSourceMap;
     const externals = nsWebpack.getConvertedExternals(env.externals);
