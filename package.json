@@ -11,6 +11,7 @@
   "bugs": {
     "url": "https://github.com/NativeScript/NativeScript/issues"
   },
+  
   "publishConfig": {
     "access": "public"
   },
