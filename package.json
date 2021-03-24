@@ -27,6 +27,7 @@
     "detail",
     "category-general"
   ],
+  
   "dependencies": {
     "@nativescript/core": "~7.1.0",
     "@nativescript/theme": "~2.3.0",
